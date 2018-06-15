@@ -1140,3 +1140,47 @@ JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Us
 JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://ums.lpu.in/lpuums/js/jquery.nyroModal-1.6.2.min.js, line 11: unreachable code after return statement
 JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528964591000	geckodriver	INFO	geckodriver 0.20.1
+1528964591013	geckodriver	INFO	Listening on 127.0.0.1:40010
+1528964594037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankur Pandey\\AppData\\Local\\Temp\\rust_mozprofile.HWe5PRoVE37m"
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+1528964598372	Marionette	INFO	Listening on port 40018
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+1528964599358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528,[Child 13544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528964685205	geckodriver	INFO	geckodriver 0.20.1
+1528964685221	geckodriver	INFO	Listening on 127.0.0.1:40074
+1528964688214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Ankur Pandey\\AppData\\Local\\Temp\\rust_mozprofile.7S1rTHRwytgp"
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+1528964691359	Marionette	INFO	Listening on port 40082
+1528964691406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Ankur Pandey\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ums.lpu.in/lpuums/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 120*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
