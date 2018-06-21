@@ -1,2 +1,2 @@
-
-def func(lst):
+ng):
+        print (m+1)
